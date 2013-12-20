@@ -13,7 +13,7 @@ Repository with the content for the Scribus website
 
 - We should get inspiration from the Inkscape, Blender and Gimp websites
 - Should the content be translated / translatable?
-- As a reference, this is the mission for the Blender website:
+- As a reference, this is [the mission for the Blender website](http://www.blender.org/news/blender-2013-website-launch/):
   > Blender is widely regarded as a mature and high quality tool.  A surprisingly successful open source project that can compete with the best commercial 3D tools out there. This means our website message can change to reflect that. Instead of explaining how awesome Blender undoubtedly is we now should communicate more who’s actually using Blender and what they do with it.
 
   > To summarize, the three key questions this site should answer and clearly communicate:
