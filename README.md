@@ -61,6 +61,10 @@ Currently there are:
 - a wiki: http://wiki.scribus.net
 - the mailing list archive and subscription: http://lists.scribus.net
 - the irc archive: http://wiki.scribus.net
+- a developer blog: http://rants.scribus.net/
+- a web frontend to SVN http://scribus.net/websvn/
+- document subdomain (http://docs.scribus.net) that redirects to wiki
+- An attempt at another doc server in Drupal http://help.scribus.net/
  
 ## Notes
 
