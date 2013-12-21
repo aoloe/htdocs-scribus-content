@@ -66,6 +66,25 @@ Currently there are:
 
 - We should get inspiration from the Inkscape, Blender and Gimp websites
 - Should the content be translated / translatable?
+- Connect the diverse Scribus communities out there
+  - Social Media
+    - Google+
+    - Twitter
+    - Reddit
+  - By Country
+    - Italy
+    - France
+    - who else?
+  - Other F/OSS efforts out there
+    - [GIMP](http://wwww.gimp.org)
+    - [Inkscape](http://www.inkscape.org)
+    - [Krita](www.krita.org)
+    - [Synfig](http://www.synfig.org)
+    - [MyPaint](http://mypaint.intilinux.com/)
+    - [Blender](http://www.blender.org)
+    - [Darktable](http://www.darktable.org/)
+    - Other Libre* / OSS projects
+
 - As a reference, this is [the mission for the Blender website](http://www.blender.org/news/blender-2013-website-launch/):
   > Blender is widely regarded as a mature and high quality tool.  A surprisingly successful open source project that can compete with the best commercial 3D tools out there. This means our website message can change to reflect that. Instead of explaining how awesome Blender undoubtedly is we now should communicate more who’s actually using Blender and what they do with it.
 
