@@ -76,9 +76,19 @@ Currently there are:
     - Twitter
     - Reddit
   - By Country
+    - Brasil
+    - Canada
+    - China
+    - India
     - Italy
     - France
-    - who else?
+    - Germany
+    - Czech Republic
+    - Russia
+    - UK
+    - US
+    - who else?  
+      (or rather by language?)
   - Other F/OSS efforts out there
     - [GIMP](http://wwww.gimp.org)
     - [Inkscape](http://www.inkscape.org)
